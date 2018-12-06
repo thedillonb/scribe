@@ -1,0 +1,7 @@
+[package]
+name = "scribe"
+version = "0.1.0"
+authors = ["Dillon Buchanan <thedillonb@gmail.com>"]
+
+[dependencies]
+getopts = "0.2"
